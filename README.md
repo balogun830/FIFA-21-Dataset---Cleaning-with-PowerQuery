@@ -1,2 +1,3 @@
 # FIFA-21-Dataset---Cleaning-with-PowerQuery
-This repository contains a data project that involves cleaning and transforming a dataset using M Language in PowerQuery
+The repository contains a data project that involves cleaning and transforming a dataset using PowerQuery in Microsoft Excel/PowerBI. The project focuses on a soccer player dataset and involves various data cleaning and transformation techniques such as removing duplicates, splitting columns, converting data types, and calculating new columns.
+This repository serves as a valuable resource for anyone interested in learning about data cleaning and transformation using Power Query in Excel. It provides a step-by-step guide that can be used as a reference or template for similar data analysis projects.
